@@ -9,6 +9,8 @@
 
 ## Applications
 
+- [deislabs/wagi-fileserver](https://github.com/deislabs/wagi-fileserver) — A static file server for Wagi written in Grain
+
 ## Libraries
 
 ## Contribute
