@@ -10,6 +10,7 @@
 ## Applications
 
 - [deislabs/wagi-fileserver](https://github.com/deislabs/wagi-fileserver) — A static file server for Wagi
+- [alex-snezhko/hopper](https://github.com/alex-snezhko/hopper) - A An HTTP microframework for the Grain programming language built on top of Wagi
 
 ## Libraries
 
