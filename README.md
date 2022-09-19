@@ -13,7 +13,7 @@
 
 ## Libraries
 
-- [alex-snezhko/hopper](https://github.com/alex-snezhko/hopper) - A An HTTP microframework for the Grain programming language built on top of Wagi
+- [alex-snezhko/hopper](https://github.com/alex-snezhko/hopper) - An HTTP microframework for the Grain programming language built on top of Wagi
 
 ## Contribute
 
