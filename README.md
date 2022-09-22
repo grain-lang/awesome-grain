@@ -9,7 +9,7 @@
 
 ## Applications
 
-- [deislabs/wagi-fileserver](https://github.com/deislabs/wagi-fileserver) — A static file server for Wagi
+- [wagi-fileserver](https://github.com/deislabs/wagi-fileserver) — A static file server for WAGI
 
 ## Libraries
 
