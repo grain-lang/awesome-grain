@@ -13,6 +13,8 @@
 
 ## Libraries
 
+- [Hopper](https://github.com/alex-snezhko/hopper) - An HTTP microframework for the Grain programming language built on top of WAGI
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
