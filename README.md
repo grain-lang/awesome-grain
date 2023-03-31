@@ -10,6 +10,7 @@
 ## Applications
 
 - [wagi-fileserver](https://github.com/deislabs/wagi-fileserver) — A static file server for WAGI
+- [Lunatic-chat-gr](https://github.com/ospencer/lunatic-chat-gr) - A telnet chat server, built with Grain & Lunatic!
 
 ## Libraries
 
