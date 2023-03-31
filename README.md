@@ -14,6 +14,8 @@
 ## Libraries
 
 - [Hopper](https://github.com/alex-snezhko/hopper) - An HTTP microframework for the Grain programming language built on top of WAGI
+- [Grain-Midi](https://github.com/spotandjake/Grain-Midi) - A feature-complete MIDI decode for teh Grain programming language
+- [Grain-Toml](https://github.com/spotandjake/Grain-Toml) - A feature-complete Toml Parser for the Grina programming language
 
 ## Contribute
 
