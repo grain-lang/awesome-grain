@@ -18,6 +18,9 @@
 - [Grain-Midi](https://github.com/spotandjake/Grain-Midi) - A MIDI decoder for the Grain programming language
 - [Grain-Toml](https://github.com/spotandjake/Grain-Toml) - A Grain toml parsing library that complies with the `v1.1.0` spec
 
+## SDKs
+- [traefik-wasm-grain](https://plugins.traefik.io/plugins/666374dee8d831193077b35b/example-wasm-plugin-using-grain) - Build Traefik plugins with Grain
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
