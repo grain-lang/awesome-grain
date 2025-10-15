@@ -5,12 +5,17 @@
 ## Contents
 
 - [Applications](#applications)
+- [Frameworks](#frameworks)
 - [Libraries](#libraries)
 
 ## Applications
 
-- [wagi-fileserver](https://github.com/deislabs/wagi-fileserver) — A static file server for WAGI
+- [wagi-fileserver](https://github.com/deislabs/wagi-fileserver) - A static file server for WAGI
 - [Lunatic-chat-gr](https://github.com/ospencer/lunatic-chat-gr) - A telnet chat server, built with Grain & Lunatic!
+
+## Frameworks
+
+- [Primate](https://primate.run) - The universal web framework, supports Grain as a backend
 
 ## Libraries
 
