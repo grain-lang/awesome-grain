@@ -12,6 +12,7 @@
 
 - [wagi-fileserver](https://github.com/deislabs/wagi-fileserver) - A static file server for WAGI
 - [Lunatic-chat-gr](https://github.com/ospencer/lunatic-chat-gr) - A telnet chat server, built with Grain & Lunatic!
+- [grainWeb](https://github.com/spotandjake/grainWeb) - An experimental application demonstrating component model bindings from Grain
 
 ## Frameworks
 
