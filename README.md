@@ -12,6 +12,7 @@
 
 - [wagi-fileserver](https://github.com/deislabs/wagi-fileserver) - A static file server for WAGI
 - [Lunatic-chat-gr](https://github.com/ospencer/lunatic-chat-gr) - A telnet chat server, built with Grain & Lunatic!
+- [Grain-ExpressionEvaluator](https://github.com/furesoft/grain-expression-evaluator/tree/master) - A mathematical expression evaluation engine
 
 ## Frameworks
 
